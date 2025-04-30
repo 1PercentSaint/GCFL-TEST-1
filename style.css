@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #ff0080, #7928ca);
+    color: white;
+    text-align: center;
+}
+
+.hero {
+    margin-top: 50px;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #ffd700;
+    font-weight: bold;
+    text-decoration: none;
+    display: block;
+    margin: 10px 0;
+}
